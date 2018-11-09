@@ -3,9 +3,9 @@
 
 边缘设备在OS-Q系统中具有最为关键的价值
 
-[![sites](OS-Q/os-q.png)](http://www.os-q.com)
+[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-### 了解更多关于：[OS-Q垂直系统](https://github.com/OS-Q/OS-Q) 可访问 www.OS-Q.com
+#### 更多关于：[OS-Q](https://github.com/OS-Q/OS-Q) 可访问 www.OS-Q.com
 
 ---
 
@@ -23,5 +23,5 @@
 
 ---
 
-##  www.OS-Q.com
+##  www.OS-Q.com      qitas@qitas.cn
 
