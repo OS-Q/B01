@@ -11,7 +11,7 @@ Edge-Q是OS-Q系统边缘设备总称，OS-Q通过边缘设备实现所有的核
 
 ## [体系组成](https://github.com/OS-Q/Edge-Q/wiki/index)
 
-边缘设备的向下的逐级分类方式为：体系Q - 节点M - 平台W - 设备D，参照年度计时单位制。
+边缘设备向下分类命名方式为：体系Q[1,4] - 节点M[1,12] - 平台W[1,52] - 设备D[1,365]，参照年度计时单位制。
 
 #### Q1:[边缘控制](https://github.com/OS-Q/Q1)
 
@@ -31,7 +31,7 @@ Edge-Q是OS-Q系统边缘设备总称，OS-Q通过边缘设备实现所有的核
 
 ---
 
-####   Q redefined the scope of operation system
+###   [Q redefined the scope of operation system](https://github.com/OS-Q/OS-Q) 
 
-####   www.OS-Q.com   by:   qitas@qitas.cn
+###   www.OS-Q.com   by:   qitas@qitas.cn
 
