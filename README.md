@@ -8,7 +8,7 @@
 #### 系统存储：[DB-Q](https://github.com/OS-Q/DB-Q)
 #### 系统通信：[MQ-Q](https://github.com/OS-Q/MQ-Q)
 
-### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
+#### 系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
 ## [简介](https://github.com/OS-Q/Edge-Q/wiki) 
 
@@ -16,13 +16,13 @@ Edge-Q是Q系统边缘设备总称，OS-Q通过分布在边缘的各种设备来
 
 在我所构建的边缘计算体系中，管理者和执行者将最大限度的直接集成，通过公共的平台共享资源，通过私有的管道管理策略。
 
-## [组成体系](https://github.com/OS-Q/Edge-Q/wiki)
-
+---
 
 - 边缘设备命名规则：体系 Q:[1,4] -> 节点 M:[1,12] -> 平台 W:[1,52] -> 设备 D:[1,365]
 
 - naming patterns：system Q[1,4] -> node M[1,12] -> platform W[1,52] -> device D[1,365]
 
+## [包含体系](https://github.com/OS-Q/Edge-Q/wiki/) 
 
 #### Q1：[边缘控制](https://github.com/OS-Q/Q1)
 
@@ -39,6 +39,26 @@ Edge-Q是Q系统边缘设备总称，OS-Q通过分布在边缘的各种设备来
 #### Q4：[弹性计算](https://github.com/OS-Q/Q4)
 
 边缘设备扩展体系，用于提供临时性算力缩短并行时间
+
+
+## [关联组件](https://github.com/OS-Q/OS-Q/wiki)
+
+#### [通信组件](https://github.com/OS-Q/MQ-Q) 
+
+实现所有平台设备间的通信连接
+
+#### [存储组件](https://github.com/OS-Q/DB-Q) 
+
+实现所有平台设备间的存储管理
+
+#### [交互组件](https://github.com/OS-Q/UI-Q) 
+
+实现所有平台设备间的呈现交互
+
+#### [服务组件](https://github.com/OS-Q/QaaS) 
+
+实现所有平台设备间的功能接口
+
 
 ---
 
