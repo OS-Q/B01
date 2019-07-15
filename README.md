@@ -8,10 +8,12 @@ EDGE-Q是边缘设备总称，通过大量的边缘节点设备实现功能的�
 
 [EDGE-Q](https://github.com/OS-Q/EDGE-Q) 同样也是各种解决方案的总称，通过不同解决方案模块实现实现更强大的功能组合。
 
-### [EDGE-Q资源](https://github.com/OS-Q/EDGE-Q) 
+### [搭配平台](https://github.com/OS-Q/)
 
-- [资源](src/)
-- [文档](docs/)
+* [FASS-Q](https://github.com/OS-Q/EDGE-Q)
+* [DATA-Q](https://github.com/OS-Q/DATA-Q)
+* [SHOW-Q](https://github.com/OS-Q/FASS-Q)
+* [DOCK-Q](https://github.com/OS-Q/DOCK-Q)
 
 ### [EDGE-Q拓扑关系](https://github.com/OS-Q/EDGE-Q) 
 
