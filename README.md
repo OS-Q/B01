@@ -6,6 +6,9 @@
 
 [EDGE-Q](https://github.com/OS-Q/EDGE-Q)是边缘设备体系总称，该体系下包括 Q[4] / M[12] / W[52] /D[365] /H[24] /N[60] /S[60] 不同级别子类，通过大量的边缘节点设备实现功能叠加，不同解决方案设备组合而成。
 
+所有终端设备采用SoC方案，软硬件体系最大整合，此外，还可以通过外置模块的方式扩展终端的能力。
+
+所有的终端采用归一化的开发环境和组织框架，最低化学习成本，最大化效率
 
 ### [EDGE-Q拓扑](https://github.com/OS-Q/EDGE-Q) 
 
@@ -26,4 +29,4 @@
     * M11：[桌面终端](https://github.com/OS-Q/M11)
     * M12：[网络终端](https://github.com/OS-Q/M12)
 
-### [OS-Q : Operation System For EDGE Devices](http://www.OS-Q.com/Edge)
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/Edge)
