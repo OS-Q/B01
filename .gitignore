@@ -1,4 +1,4 @@
 *.pio/
 *.vscode/
 *.map
-.DS_Store
+*.DS_Store
