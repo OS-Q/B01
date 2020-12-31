@@ -23,7 +23,7 @@
     },
     "debug": {
         "default_tools": [
-        "stlink"
+        "cmsis-dap"
         ],
         "jlink_device": "STM32F103C8",
         "openocd_extra_args": [
