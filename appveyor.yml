@@ -7,7 +7,6 @@ environment:
     - PLATFORMIO_PROJECT_DIR: "project/libopencm3-blink"
     - PLATFORMIO_PROJECT_DIR: "project/mbed-rtos-blink"
     - PLATFORMIO_PROJECT_DIR: "project/zephyr-blink"
-    - PLATFORMIO_PROJECT_DIR: "project/stm32cube-ll-blink"
     - PLATFORMIO_PROJECT_DIR: "project/stm32cube-hal-blink"
 
 install:

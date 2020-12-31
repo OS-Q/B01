@@ -15,7 +15,6 @@ jobs:
           - "project/libopencm3-blink"
           - "project/mbed-rtos-blink"
           - "project/zephyr-blink"
-          - "project/stm32cube-ll-blink"
           - "project/stm32cube-hal-blink"
     runs-on: ${{ matrix.os }}
     steps:
